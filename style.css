@@ -92,8 +92,7 @@ p {
 
     .title:hover,
     .title:focus,
-    .title:active,
-    .title:Error-States {
+    .title:active {
         color: var(--color-yellow);
         cursor: pointer;
     }
